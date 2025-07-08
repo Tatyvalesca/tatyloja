@@ -77,7 +77,7 @@
     🦋 Taty Variedades
   </header>  <section class="products">
     <div class="card">
-      <img src="![a370d40a-6d9f-435f-80cc-15eeecfc9151-59891-niina-secrets-batom-duo-perfect-match-vermelho-1](https://github.com/user-attachments/assets/da5eb796-3408-41ce-8a5f-7c258dea3304)"
+      <img src="a370d40a-6d9f-435f-80cc-15eeecfc9151-59891-niina-secrets-batom-duo-perfect-match-vermelho-1 (1).jpg"
 alt="Batom vermelho Duo Perfect Match Niina">
       <h2>Batom vermelho Duo Perfect Match Niina</h2>
       <p>O Batom vermelho Duo Perfect Match Niina, com seu formato 2 em 1, é o segredo para uma boca delineada, definida e preenchida.</p>
